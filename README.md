@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ![swoft-logo](https://raw.githubusercontent.com/swoft-cloud/swoft/master/public/image/swoft-logo-mdl.png)
 
 [![Latest Stable Version](http://img.shields.io/packagist/v/swoft/swoft.svg)](https://packagist.org/packages/swoft/swoft)
@@ -158,3 +159,6 @@ swoft-whoops  | [![Latest Stable Version](http://img.shields.io/packagist/v/swof
 ## License
 
 Swoft is an open-source software licensed under the [LICENSE](LICENSE)
+=======
+# swoft
+>>>>>>> 3a41b309c99d61f37a31983e93b63ff2296b8c3f
