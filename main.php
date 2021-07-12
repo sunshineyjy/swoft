@@ -1,5 +1,5 @@
 
-[200~INSERT INTO `keyword` VALUES ('1', '搞笑');
+[200~INSERT INTO `keyword` VALUES ('1', '搞笑newwwwwwwwwwwwwwwwwww');
 INSERT INTO `keyword` VALUES ('2', '生活方式');
 INSERT INTO `keyword` VALUES ('3', '芳华');
 INSERT INTO `keyword` VALUES ('4', '冯小刚1111111111111');
